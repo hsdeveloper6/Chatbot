@@ -1,3 +1,6 @@
+'''Created this project under the guidance of instructors from the Inspirit AI training course'''
+
+
 #install libraries
 import numpy as np
 import pandas as pd
